@@ -1,0 +1,62 @@
+segment_sources:
+  I87D79401:
+    type: origin_type
+    relation: translation
+    language: sa
+  I58777559:
+    type: origin_type
+    relation: translation
+    language: zh
+  I2E77EDEB:
+    type: origin_type
+    relation: translation
+    language: zh
+  IA631CCEC:
+    type: origin_type
+    relation: translation
+    language: zh
+  I44575344:
+    type: origin_type
+    relation: translation
+    language: bo
+  I3D34E466:
+    type: origin_type
+    relation: translation
+    language: en
+  IC00F020C:
+    type: origin_type
+    relation: translation
+    language: en
+segment_pairs:
+  1c3c25547fc742d694f450b4a7a5ac52:
+    I87D79401: e08e41ce7637419cae7cebba12958af2
+    I58777559: cbd2de484fb543fea3261739b45e8e73
+    I2E77EDEB: f1eeb2b4af7e443bbad95042dbd2cef5
+    IA631CCEC: b8d33f72506c41a8be5b14bc7b690356
+    I44575344: 6b3ef2baa3964381bd8c39b8aae284b5
+    I3D34E466: 33f3e35fb342432e94c552e93e91ed25
+    IC00F020C: 69e328ce42c544f3ae8830fe721c9b77
+  20cdcb1ab3b64762a824382225c43c9c:
+    I87D79401: 7c871f9ea89c48f6822499101b22e614
+    I58777559: 2d8447b307434631bedb72f874b115f4
+    I2E77EDEB: 1232a40f32914ba3ada000fa0827a080
+    IA631CCEC: 6ac80783f36b4bd2bd627820582a1072
+    I44575344: 49c434a83fcc45e19308cf0a7051d44e
+    I3D34E466: d3232d9a7bd94ee0ab98024ef1e0f369
+    IC00F020C: 0a3c7648ef7840ddaab525be0f626fd2
+  5307a69fe74046aebf976ed2c7bb4789:
+    I87D79401: bde62c3149cc46e3b19149e2443d9cc0
+    I58777559: 4e5b5b0947d04a249b4d0251915e3f9a
+    I2E77EDEB: fab5f448044f4cf18ade217f2cd4705b
+    IA631CCEC: 67804cddd3b240a6bdde01cd8b2c5527
+    I44575344: dc279f3b8ca1481c931c9666fe1c9272
+    I3D34E466: ecba7f21cd6f4190bfe7a4107c91d5e3
+    IC00F020C: 8194443d79814ec3a6c2efe32d242dfa
+  5736a3bd75ed4708b4b6d2596ef7d988:
+    I87D79401: 5314fd92882b4f2dbcb130cb7d6aa667
+    I58777559: 86e7250313a24914bed7d4485e827ebb
+    I2E77EDEB: a565cc06af314caaa949da3d3b620f2b
+    IA631CCEC: 01a1b4e3139d4938bc7a5865c6088893
+    I44575344: 46496e4e4e8945088c640e6c824902c7
+    I3D34E466: a146859db0b14af1a759d5b2282fea27
+    IC00F020C: e36bdad8bb6a499aa1b76f65c4fbb2be
